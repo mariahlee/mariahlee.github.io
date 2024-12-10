@@ -42,15 +42,16 @@ profiles:
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/mariah-lee
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=YvrgCXIAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
     url: https://orcid.org/0009-0001-8881-322X
 
 interests:
   - Functional Annotation
-  - Deep Learning
+  - Machine Learning
   - Statistics
   - Computational Biology
+  - Quantum Computing
 
 education:
 #  - area: PhD Artificial Intelligence
@@ -84,19 +85,19 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+experience:
+  - position: Graduate Researcher
+    company_name: Syngenta
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2022-06-06
+    date_end: 2022-12-16
     summary: |2-
       Responsibilities include:
+      - Run 384-well Nexar machines that inputs DNA in sequencing tape
+      - Run 4-channel machine that 
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
+  - position: Graduate Researcher
     company_name: X
     company_url: ''
     company_logo: ''
@@ -106,6 +107,28 @@ work:
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Graduate Researcher
+    company_name: X
+    company_url: ''
+    company_logo: ''
+    date_start: 2016-01-01
+    date_end: 2020-12-31
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Lab Technician
+    company_name: Syngenta
+    company_url: ''
+    company_logo: ''
+    date_start: 2022-06-06
+    date_end: 2022-12-16
+    summary: |2-
+      Responsibilities include:
+      - Run 384-well Nexar machines that inputs DNA in sequencing tape
+      - Run 4-channel machine that 
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
@@ -184,4 +207,4 @@ awards:
 
 ## About Me
 
-Mariah Lee is a masters student, majoring in Computational Life Sciences at Arizona State University. She will be applying to PhD programs to begin in Fall 2025. Her research interests include using deep learning and statistical modeling to elucidate the diverse functions of noncoding regions, particularly noncoding RNAs.
+I am a master's student, majoring in Computational Life Sciences at Arizona State University. I have applied to PhD programs to begin in Fall 2025. My research interests include using deep learning and statistical modeling to elucidate the diverse functions of noncoding regions, particularly noncoding RNAs. I am also committed to creating an environment where underrepresented minorites can find their place and be successful in genomics.
